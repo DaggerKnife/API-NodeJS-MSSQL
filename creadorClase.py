@@ -1,5 +1,5 @@
-tabla=''
-col=[
+tabla='COSA'
+col=['COSA','COSA2'
 
 ]
 
